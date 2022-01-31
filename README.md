@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevLaukey
+ ### 👋 Hi, I'm @DevLaukey
 - 👀 I’m interested in Nextjs , ReactJs and Django
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
