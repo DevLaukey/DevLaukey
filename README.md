@@ -4,7 +4,7 @@
  
  
 - 👀 I’m interested in Nextjs , ReactJs and Django
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://devlaukey.netlify.app/
 
