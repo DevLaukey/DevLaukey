@@ -1,8 +1,11 @@
  ### 👋 Hi, I'm @DevLaukey
 ## [![GitHub Streak](https://streak-stats.demolab.com?user=DevLaukey&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
- # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLaukey&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
+
+## <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
  
 - 👀 I’m interested in Nextjs , ReactJs and Django
 - 🌱 I’m currently learning Artificial Intelligence
