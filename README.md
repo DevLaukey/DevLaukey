@@ -1,9 +1,9 @@
  ### 👋 Hi, I'm @DevLaukey
 ## [![GitHub Streak](https://streak-stats.demolab.com?user=DevLaukey&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-## <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,reactjs,js,c, html, css, django, python, java, sql, " />
+    <img src="https://skillicons.dev/icons?i=git,ts,tailwind,supabase,js,c, solidity, styledcomponents, react ,html, css, django, py, nodejs, nextjs, netlify, mongodb, materialui, java, firebase, " />
   </a>
 </p>
  
