@@ -4,6 +4,9 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,ts,tailwind,supabase,js,c, solidity, styledcomponents, react ,html, css " />
 </p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i= django, py, nodejs, nextjs, netlify, mongodb, materialui, java, firebase " />
+</p>
 
 
  
