@@ -9,7 +9,7 @@
 </p>
 
 
-# [![My Skills](https://skillicons.dev/icons?i=django, py, nodejs, nextjs, netlify, mongodb, materialui, java, firebase&perline=3)](https://skillicons.dev)
+# [![ My Skills](https://skillicons.dev/icons?i=django, py, nodejs, nextjs, netlify, mongodb, materialui, java, firebase&perline=3)](https://skillicons.dev)]
 
  
 - 👀 I’m interested in Nextjs , ReactJs and Django
