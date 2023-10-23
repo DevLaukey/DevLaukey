@@ -1,8 +1,10 @@
 ### 👋 Hi, I'm @DevLaukey
 
+## Software Developer, Music & Tech Junkie
 
+## SKILLS
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,ts,tailwind,supabase,js,c,solidity,styledcomponents,react,html,css,django,py,nodejs,nextjs,netlify,mongodb,materialui,java,firebase,express,github,heroku,mysql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,ts,tailwind,supabase,js,c,solidity,styledcomponents,react,html,css,django,py,nodejs,nextjs,netlify,mongodb,materialui,java,firebase,express,github,heroku,mysql,metamask,ethereum&perline=6" />
 </p>
 
 
