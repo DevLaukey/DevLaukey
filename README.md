@@ -9,8 +9,9 @@
 
 
 
-- 👀 I’m interested in Nextjs , ReactJs and Django
-- 🌱 I’m currently learning Artificial Intelligence
+- 👀 I’m interested in Nextjs , ReactJs and Supabase
+- 🧠 I’m currently changing the world using blockchain technology
+- 🌱 I’m always learning. There is a lot of head room to grow into so why not! 😁😉
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://devlaukey.netlify.app/
 
