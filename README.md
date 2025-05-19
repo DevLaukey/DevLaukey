@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm @DevLaukey
 
-## Software Developer, Swimming & Music Junkie
+## Software Engineer
 
 ## SKILLS
 <p align="center">
