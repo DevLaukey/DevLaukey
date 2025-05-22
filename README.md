@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm @DevLaukey
 
 ## Software Engineer
-Dedicated, competent, and goal-oriented web developer and 
+Dedicated, competent, and goal-oriented Software Engineer and 
 Computer Scientist. Confident in the ability to go above and beyond to 
 accomplish both individual and team goals. A quick learner with a firm 
 belief in the potential of technology to improve daily tasks and boost 
