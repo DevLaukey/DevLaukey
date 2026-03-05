@@ -21,7 +21,7 @@ productivity.
 - 🧠 I’m currently changing the world using blockchain technology
 - 🌱 I’m always learning. There is a lot of head room to grow into so why not! 😁😉
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ~https://devlaukey.netlify.app/
+- 📫 How to reach me https://devlaaukey.netlify.app/
 
 <!---
 DevLaukey/DevLaukey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
